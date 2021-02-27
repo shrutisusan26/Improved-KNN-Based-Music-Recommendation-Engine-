@@ -1,5 +1,3 @@
 # Improved-KNN-Based-Music-Recommendation-Engine-
 
-
-This project is built on the research paper 'Music personalized recommendation system based on improved KNN algorithm' by Gang Li ,Jingjing Zhang, which is based on the KNN algorithm making use of the mean value’s thought of the Baseline algorithm,preventing our ratings from being sparse,and achieve better
-recommendation results.
+This project is built basis the 'Music personalized recommendation system based on improved KNN algorithm' research paper by Gang Li ,Jingjing Zhang,that make use of the KNN algorithm and incorporates mean value thought of the Baseline algorithm providing more stability to the recommendation results.
